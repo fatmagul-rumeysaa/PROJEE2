@@ -10,4 +10,5 @@ Bu proje, kullanıcıların dijital kitapları çevrimiçi olarak okuyabileceği
 ![Ekran görüntüsü 2025-05-18 180452](https://github.com/user-attachments/assets/5a800e20-76b1-4e6c-aecd-cd729c53bbdf)
 ![Ekran görüntüsü 2025-05-18 180523](https://github.com/user-attachments/assets/8dec36f6-cf81-4023-9c48-4f406462269c)
 
+![Ekran görüntüsü 2025-05-18 195156](https://github.com/user-attachments/assets/e7ec0ddf-ff11-483c-8b9f-64abb9c5e482)
 
